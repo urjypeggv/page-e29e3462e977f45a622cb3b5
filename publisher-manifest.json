@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "58a602f5ce15fc06b4b247e8",
+  "owner": "urjypeggv",
+  "repo": "page-e29e3462e977f45a622cb3b5",
+  "title": "无忧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e29e3462e977f45a622cb3b5",
+      "a": "无忧",
+      "b": "",
+      "entity": "无忧",
+      "brand": "无忧",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1a080e824e564864622d6a243177e2adcaddbb52cb8abe60a4a93f4987a17d1e",
+      "content": {
+        "keyword1": "无忧",
+        "keyword2": "",
+        "primary_entity": "无忧",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "无忧是一款按清单组装的网络工具集，提供基础、旗舰与团队三档月度套餐，强调透明计费、按需取用与稳定工单支持。",
+          "AI_DESCRIPTION": "无忧是一款按清单组装的网络工具集，提供基础、旗舰与团队三档月度套餐，强调透明计费、按需取用与稳定工单支持。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nhtml, body {background: #f1f1f4;color: #1c1c22;font-family: -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", Arial, sans-serif;font-size: 15px;line-height: 1.65;-webkit-font-smoothing: antialiased}\na {color: #6f3df5;text-decoration: none;border-bottom: 1px dotted #b8a4f5}\na:hover {border-bottom-style: solid}\n.wrap {max-width: 1180px;margin: 0 auto;padding: 0 28px}\n\n/* ========== 首屏：海报式 ========== */\n.hero {position: relative;min-height: 92vh;padding: 56px 0 64px;background: linear-gradient(180deg, #efeef3 0%, #f4f3f8 100%);border-bottom: 1px dashed #c9c5d4;overflow: hidden}\n.hero-inner {display: flex;flex-direction: column;justify-content: space-between;min-height: calc(92vh - 120px)}\n.hero-topline {display: flex;justify-content: space-between;align-items: center;font-size: 12px;letter-spacing: 0.18em;text-transform: uppercase;color: #6b6878}\n.hero-topline .seal {display: inline-block;padding: 4px 10px;border: 1px dashed #b8a4f5;color: #6f3df5;font-size: 11px}\n.brand-mark {font-weight: 700;font-size: clamp(96px, 22vw, 320px);line-height: 0.9;letter-spacing: -0.04em;color: #1a1a22;margin: 32px 0 12px;word-break: keep-all}\n.brand-mark .dot {color: #6f3df5}\n.hero-sub {font-size: clamp(18px, 1.6vw, 22px);color: #3d3a4a;max-width: 720px;margin-bottom: 36px}\n.hero-foot {display: flex;flex-wrap: wrap;gap: 16px 36px;align-items: flex-end;justify-content: space-between;border-top: 1px dashed #c9c5d4;padding-top: 22px}\n.hero-foot .meta {font-size: 13px;color: #6b6878;letter-spacing: 0.05em}\n.hero-foot .jump {display: flex;flex-wrap: wrap;gap: 8px}\n.hero-foot .jump a {padding: 6px 12px;border: 1px dashed #b8a4f5;font-size: 12px;letter-spacing: 0.1em;text-transform: uppercase}\n\n/* ========== 通用 section ========== */\nsection {padding: 72px 0;border-bottom: 1px dashed #c9c5d4}\nsection .lead {font-size: 12px;letter-spacing: 0.22em;text-transform: uppercase;color: #6f3df5;margin-bottom: 14px}\nsection h2 {font-size: clamp(28px, 3vw, 40px);font-weight: 700;letter-spacing: -0.01em;margin-bottom: 18px;max-width: 880px}\nsection h3 {font-size: 18px;font-weight: 700;margin-bottom: 8px}\nsection p {margin-bottom: 12px;color: #2d2a38;max-width: 760px}\nsection ul {margin: 8px 0 16px 0;padding-left: 20px}\nsection li {margin-bottom: 6px}\n\n/* ========== 使用说明 ========== */\n.how ol {counter-reset: step;list-style: none;padding: 0;margin-top: 24px;display: grid;gap: 14px}\n.how li {counter-increment: step;position: relative;padding: 18px 22px 18px 70px;border: 1px dashed #c9c5d4;background: #fbfafd}\n.how li::before {content: counter(step, decimal-leading-zero);position: absolute;left: 22px;top: 18px;font-size: 24px;font-weight: 700;color: #6f3df5;letter-spacing: 0.05em}\n\n/* ========== 套餐：单列大卡依次堆叠 ========== */\n.plans-stack {display: flex;flex-direction: column;gap: 18px;margin-top: 28px}\n.plan-card {position: relative;padding: 28px 32px;background: #fbfafd;border: 1px dashed #b8a4f5;display: grid;grid-template-columns: 1.1fr 0.9fr 1.4fr auto;gap: 28px;align-items: start}\n.plan-card.featured {border-color: #6f3df5;border-style: solid;background: #f6f1ff}\n.plan-card .stamp {position: absolute;top: -10px;right: 24px;background: #6f3df5;color: #fff;font-size: 11px;letter-spacing: 0.18em;padding: 3px 10px;text-transform: uppercase}\n.plan-card .head h3 {font-size: 22px;margin-bottom: 4px}\n.plan-card .head .price {font-size: 28px;font-weight: 700;color: #1a1a22}\n.plan-card .head .price small {font-size: 13px;color: #6b6878;font-weight: 400;margin-left: 4px}\n.plan-card .head .annual {font-size: 13px;color: #6b6878;margin-top: 6px}\n.plan-card ul {list-style: none;padding: 0;margin: 0}\n.plan-card ul li {padding: 4px 0 4px 18px;position: relative;font-size: 14px;color: #2d2a38}\n.plan-card ul li::before {content: \"—\";position: absolute;left: 0;color: #6f3df5}\n.plan-card .cta {align-self: center;padding: 10px 18px;border: 1px solid #6f3df5;font-size: 12px;letter-spacing: 0.14em;text-transform: uppercase;color: #6f3df5}\n.plan-card.featured .cta {background: #6f3df5;color: #fff}\n\n/* ========== 客户端 ========== */\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));gap: 16px;margin-top: 28px}\n.client-row {padding: 18px 20px;background: #fbfafd;border: 1px dashed #c9c5d4}\n.client-row h3 {font-size: 16px;margin-bottom: 4px}\n.client-row p {font-size: 13px;color: #4a4658;margin-bottom: 6px}\n.client-row .note {font-size: 12px;color: #8a8696}\n\n/* ========== FAQ details 折叠 ========== */\n.faq-list {margin-top: 28px;display: flex;flex-direction: column;gap: 12px}\n.faq-item {background: #fbfafd;border: 1px dashed #c9c5d4;padding: 14px 22px}\n.faq-item summary {cursor: pointer;font-weight: 600;font-size: 15px;list-style: none;display: flex;justify-content: space-between;align-items: center;color: #1a1a22}\n.faq-item summary::-webkit-details-marker {display: none}\n.faq-item summary::after {content: \"+\";color: #6f3df5;font-size: 20px;font-weight: 400;transition: transform 0.2s}\n.faq-item[open] summary::after {content: \"−\"}\n.faq-item p {margin-top: 12px;font-size: 14px;color: #3d3a4a}\n\n/* ========== 页脚 ========== */\n.foot {padding: 36px 0 56px;font-size: 12px;color: #6b6878;letter-spacing: 0.08em;text-align: center}\n.foot span {color: #6f3df5}\n\n@media (max-width: 860px) {\n  .plan-card {grid-template-columns: 1fr;gap: 18px}\n  .plan-card .cta {justify-self: start}\n  .hero-foot {flex-direction: column;align-items: flex-start}\n}\n@media (max-width: 520px) {\n  .brand-mark {font-size: 22vw}\n  section {padding: 56px 0}\n  .wrap {padding: 0 18px}\n}\n</style><header class=\"hero\">\n  <div class=\"wrap hero-inner\">\n    <div class=\"hero-topline\">\n      <span>NO. 4313 / 网络工具集</span>\n      <span class=\"seal\">清单式 · 按月取用</span>\n    </div>\n\n    <div>\n      <h1 class=\"brand-mark\">无忧<span class=\"dot\">.</span></h1>\n      <p class=\"hero-sub\">把网络工具拆成清单，按月取用，按需付费。无隐性扣费，不强制打包 —— 选你需要的，留你用得上的。</p>\n    </div>\n\n    <div class=\"hero-foot\">\n      <div class=\"meta\">2024 · 透明计费 · 工单优先</div>\n      <nav class=\"jump\" aria-label=\"页内跳转\">\n        <a href=\"#how\">使用说明</a>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#clients\">客户端</a>\n        <a href=\"#faq\">常见问题</a>\n      </nav>\n    </div>\n  </div>\n</header>\n\n<main>\n\n<section id=\"how\" class=\"how\">\n  <div class=\"wrap\">\n    <div class=\"lead\">使用说明</div>\n    <h2>四步把无忧装进日常</h2>\n    <p>从下载到切换节点，整个流程不绕弯：每一项都以可勾选的步骤呈现，按顺序完成即可。</p>\n    <ol>\n      <li>\n        <strong>下载对应客户端。</strong>按系统选 Windows、macOS、Android 或 iOS 客户端，全部安装包均来自官方分发页，文件大小与签名可在下载页核对。\n      </li>\n      <li>\n        <strong>用订阅链接导入账号。</strong>购买套餐后，会在订单详情页得到一段以 <code>wuyou://</code> 开头的订阅链接，复制后客户端内一键导入即可，无需手动填写服务器地址。\n      </li>\n      <li>\n        <strong>选择节点并连接。</strong>节点列表按地区分组，可按延迟或用途筛选。日常浏览选普通线路；对延迟敏感的会话（如远程会议、跨区联机）可手动切换到专线节点。\n      </li>\n      <li>\n        <strong>查看用量并按需续费。</strong>客户端首页展示本月剩余流量与到期日。若流量不足，可在套餐页直接升级或叠加加油包，不强制重买整个周期。\n      </li>\n    </ol>\n  </div>\n</section>\n\n<section id=\"plans\">\n  <div class=\"wrap\">\n    <div class=\"lead\">套餐</div>\n    <h2>三档月度方案，按需挑选</h2>\n    <p>所有套餐均按月计费、按年付有折扣，不绑卡、不自动续费 —— 你可以随时在用户中心关闭下月扣款。</p>\n\n    <div class=\"plans-stack\">\n\n      <article class=\"plan-card\">\n        <div class=\"head\">\n          <h3>基础版</h3>\n          <div class=\"price\">¥15<small>/月</small></div>\n          <div class=\"annual\">按年付仅需 ¥150/年</div>\n        </div>\n        <div></div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">选择基础版</a>\n      </article>\n\n      <article class=\"plan-card featured\">\n        <span class=\"stamp\">推荐</span>\n        <div class=\"head\">\n          <h3>旗舰版</h3>\n          <div class=\"price\">¥35<small>/月</small></div>\n          <div class=\"annual\">按年付仅需 ¥350/年</div>\n        </div>\n        <div></div>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7×24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">选择旗舰版</a>\n      </article>\n\n      <article class=\"plan-card\">\n        <div class=\"head\">\n          <h3>团队版</h3>\n          <div class=\"price\">¥85<small>/月</small></div>\n          <div class=\"annual\">按年付仅需 ¥850/年</div>\n        </div>\n        <div></div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">选择团队版</a>\n      </article>\n\n    </div>\n  </div>\n</section>\n\n<section id=\"clients\">\n  <div class=\"wrap\">\n    <div class=\"lead\">客户端</div>\n    <h2>四端原生支持</h2>\n    <p>针对主流桌面与移动系统分别提供对应客户端，所有版本均支持同一订阅链接登录，可在多个设备间共享同一账号。</p>\n\n    <div class=\"clients-grid\">\n      <div class=\"client-row\">\n        <h3>Windows</h3>\n        <p>支持 Windows 10 / 11 64 位，提供系统代理与 TUN 模式双选项。</p>\n        <div class=\"note\">安装包与校验值可在下载页核对</div>\n      </div>\n      <div class=\"client-row\">\n        <h3>macOS</h3>\n        <p>同时提供 Intel 与 Apple Silicon 原生构建，已适配 macOS 12 及以上。</p>\n        <div class=\"note\">需在「隐私与安全性」中允许加载</div>\n      </div>\n      <div class=\"client-row\">\n        <h3>Android</h3>\n        <p>支持 Android 8.0 及以上系统，提供前台与后台两种运行模式。</p>\n        <div class=\"note\">后台耗电情况可在系统设置中调整</div>\n      </div>\n      <div class=\"client-row\">\n        <h3>iOS</h3>\n        <p>需通过 TestFlight 或 App Store 分发版本获取，订阅链接导入流程一致。</p>\n        <div class=\"note\">TestFlight 名额有限时可能临时关闭</div>\n      </div>\n    </div>\n  </div>\n</section>\n\n<section id=\"faq\">\n  <div class=\"wrap\">\n    <div class=\"lead\">常见问题</div>\n    <h2>购买、使用、续费与退订</h2>\n    <p>以下汇总了用户在挑选套餐前最常提出的问题，未覆盖到的疑问可直接发工单，工作日内会有人工回复。</p>\n\n    <div class=\"faq-list\">\n\n      <details class=\"faq-item\">\n        <summary>三档套餐之间能否在到期前升级或降级？</summary>\n        <p>可以。在用户中心「我的套餐」里选择「变更套餐」，差额会按剩余天数折算补缴或抵扣。变更不收取手续费，也不会重置当前已使用的流量。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>套餐内流量用完后会断网吗？</summary>\n        <p>默认会暂停访问，直到下个计费周期开始。可在套餐页单独购买流量加油包，5GB / 20GB / 100GB 三档可选，加油包与主套餐流量独立结算。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>订阅链接是否能在多台设备上同时登录？</summary>\n        <p>可以，但同一套餐下同时在线的设备数量不能超过该档位的设备数上限（基础版 3 台、旗舰版 5 台、团队版 20 台）。超额登录会自动踢出最早接入的设备。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>是否提供发票或企业抬头？</summary>\n        <p>个人用户可申请普通电子发票；团队版用户在购买时填写企业抬头与税号，即可在订单完成后于「发票管理」中下载增值税普通发票或专票。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>购买后多久能拿到订阅链接？</summary>\n        <p>支付成功后系统自动发货，订阅链接、初始密码与节点列表会在订单详情页同步展示，无需等待人工审核，也无需绑定额外账号。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>剩余未使用完的流量会结转下月吗？</summary>\n        <p>默认不结转。团队版用户可在用户中心开启「团队池」开关，把本月剩余量累加到下个月度上限，超过 1000GB 的部分按加油包规则计算。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>客户端版本更新会强制升级吗？</summary>\n        <p>不会强制。客户端会提示新版本并附带更新说明，但旧版本仍可继续登录使用。当订阅协议发生重大变更或旧版本出现安全问题时，会在用户中心推送提醒。</p>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>工单一般多久能得到回复？</summary>\n        <p>基础版工单在 24 小时内回复；旗舰版用户走优先通道，工作时间内通常 4 小时内首响；团队版提供专属客户经理，响应时间以服务约定为准。</p>\n      </details>\n\n    </div>\n  </div>\n</section>\n\n</main>\n\n<footer class=\"foot\">\n  <div class=\"wrap\">\n    © 2024 <span>无忧</span> · 清单式网络工具集 · 透明计费 · 按需取用\n  </div>\n</footer>",
+          "hash": "66886a6cf2254bb16204a4a006fc92fc786067a3cae48dc90f068f4a54852f46",
+          "seo": {
+            "title": "无忧 — 干净、轻量、按月取用的网络工具集",
+            "keywords": "无忧,网络工具,流量套餐,设备连接,工单支持,线路节点",
+            "description": "无忧是一款按清单组装的网络工具集，提供基础、旗舰与团队三档月度套餐，强调透明计费、按需取用与稳定工单支持。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "4313",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "promars.cn",
+    "host": "p-27a185b673.promars.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "485a2dfab2a2abbf7f9d7daf96406c63679ee4b27093045c3cf1aebf132f8605",
+    "sitemap.xml": "87038ae48d555b2c5d000d1abbe134bd53cc775c9ac967151c5505b2d81b9fe6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "472181f7b51f25d97f4bfa349924560a2966520bd3e968de88ec020fa907da76",
+    "robots.txt": "85baadcc536d618a6dde075018377a5a9c965af33ea5adae57880ddf1bfdf902",
+    "43ed2ae06e8b0eeb0034d3ef10f4564c.txt": "480621bfd2cdf8f7b83edd6c69129f938673ee4a53cac667f2d0cd0f87322c75"
+  },
+  "revision": "d1dcc7c6cdc14e7b8b2695de26ff0d8c7842483d20c97420de465d40de8ad46c"
+}
